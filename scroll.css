@@ -1,0 +1,21 @@
+html{
+	background-color: #EFEFEF;
+}
+
+.data{
+	 background: #FFF;
+	 margin: 10px;
+      padding: 50px;
+      font-size: 20px;
+      line-height: 1.5;
+      min-height: 3000px;
+}
+.scroll{
+	 position: fixed;
+      top: 0;
+      left: 0;
+      height: 14px;
+      background: #1CE;
+      transition: 0.5s cubic-bezier(0.075, 0.82, 0.165, 1) width;
+    
+}
